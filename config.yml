@@ -1,1 +1,2 @@
-PROJECT_NAME: Overridden
+#PROJECT_NAME: Overridden
+java_version: 21
